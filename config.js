@@ -7,7 +7,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "GRUB": [
-	 ["http://grubmine.govps.com/GrubMine/"]
+	 ["http://grubmine.govps.com/GrubMine:8117"]
  ]
 };
 
