@@ -9,9 +9,9 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "osl": [
-	["Oscillate Pool", "http://oscillatepool.ml:8117/"],
-	["Llama Horse", "http://osc.llama.horse:8117/"],
-	["Line Pool", "http://osc.line-pool.ru/"],
+	["Oscillate Pool", "http://oscillatepool.ml:8245"],
+	["Llama Horse", "http://osc.llama.horse:8117"],
+	["Line Pool", "http://osc.line-pool.ru"],
 	["Spooky Pool", "http://spookypool.nl/OSL"]
  ]
 };
